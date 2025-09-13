@@ -27,7 +27,7 @@
 
 ## 📂 Projetos em destaque  
 
- 🔹 **NEXUS PDV** – Sistema de gestão de vendas e comandas com permissões de usuário (Em Desenvolvimento)  
+- 🔹 **NEXUS PDV** – Sistema de gestão de vendas e comandas com permissões de usuário (Em Desenvolvimento)  
 - 🔹 **Banco de Dados Completo** – Projeto integrador com tabelas, relacionamentos, procedures e triggers  
 - 🔹 Outros projetos em desenvolvimento 🚧  
 
